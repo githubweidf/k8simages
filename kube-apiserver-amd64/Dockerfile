@@ -1,2 +1,2 @@
-from gcr.io/google_containers/kube-apiserver-amd64:v1.12.1
+from gcr.io/google_containers/kube-apiserver-amd64:v1.13.0
 label maintainer="oceana@demo.com"
