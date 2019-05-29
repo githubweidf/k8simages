@@ -1,2 +1,2 @@
-from gcr.io/google_containers/etcd-amd64:3.2.24
+from gcr.io/google_containers/etcd-amd64:3.3.10
 label maintainer="oceana@demo.com"
