@@ -1,2 +1,2 @@
-from gcr.io/google_containers/kube-scheduler-amd64:v1.14.2
+from gcr.io/google_containers/kube-scheduler-amd64:v1.14.3
 label maintainer="oceana@demo.com"
