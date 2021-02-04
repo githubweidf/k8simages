@@ -1,2 +1,2 @@
-from gcr.io/google_containers/pause-amd64:3.2
-label maintainer="oceana@demo.com"
+from k8s.gcr.io/pause:3.2
+label maintainer="k8s@demo.com"

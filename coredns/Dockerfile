@@ -1,2 +1,2 @@
-from gcr.io/google_containers/coredns-amd64:1.7.0
-label maintainer="oceana@demo.com"
+from k8s.gcr.io/coredns:1.7.0
+label maintainer="k8s@demo.com"
